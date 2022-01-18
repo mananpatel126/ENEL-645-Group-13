@@ -1,6 +1,6 @@
 # ENEL_645-Group
 
-Number of group members
+Group members:
 1. Manan Patel - 30126849
 2. Vishal Patel - 30126128
 3. Karnav Joshi - 30126641
