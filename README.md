@@ -10,5 +10,5 @@ Group members:
 | 5.     | Romil Patel     | 30129768|
 | 6.     | Jay Patel       | 30110511|
 
-## Assignment#1
+## Assignments
 - **Assignment 01**: [Assignment#1_Python/NumPy Programming](Assignment/Assignment_1.ipynb)
