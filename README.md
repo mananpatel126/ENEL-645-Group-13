@@ -11,4 +11,4 @@ Group members:
 | 6.     | Jay Patel       | 30110511|
 
 ## Assignment#1
-- **Assignment 01**: [Assignment#1_Python/NumPy Programming](Assignments/Assignment_1.ipynb)
+- **Assignment 01**: [Assignment#1_Python/NumPy Programming](Assignment/Assignment_1.ipynb)
