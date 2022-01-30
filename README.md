@@ -9,3 +9,6 @@ Group members:
 | 4.     | Dishank Bhavsar | 30136156|
 | 5.     | Romil Patel     | 30129768|
 | 6.     | Jay Patel       | 30110511|
+
+## Assignment#1
+- **Assignment 01**: [Assignment#1_Python/NumPy Programming](Assignments/Assignment_1.ipynb)
