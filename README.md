@@ -12,3 +12,4 @@ Group members:
 
 ## Assignments
 - **Assignment 01**: [Assignment#1_Python/NumPy Programming](Assignment/Assignment_1/Assignment_1.ipynb)
+- **Assignment 02**: [Assignment#2_Paper Reading](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Assignment/Assignment_2)
