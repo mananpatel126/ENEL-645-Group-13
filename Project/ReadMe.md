@@ -1,3 +1,3 @@
 **Hand Gesture Recognition Using Transfer Learning**
 
-https://user-images.githubusercontent.com/77996352/159885365-d0eba71d-9ee7-474f-a518-7f3fbab78787.mp4
+![Final Output - Copy](https://user-images.githubusercontent.com/77996352/159887445-aa3385f8-e6cf-4d83-a0b8-31f57454f60f.gif)
