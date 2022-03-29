@@ -1,1 +1,10 @@
-<img src="https://user-images.githubusercontent.com/97990136/160720898-3932e85f-f02a-4411-842b-fe42b9a3149e.jpg" width="200" height="200" />
+<h2>ResNet50 Model</h2>
+<p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
+
+| Initial Trained Model | Fine Tuned Model |
+|--|--|
+| <img src="https://user-images.githubusercontent.com/97990136/160721915-cdfde3d4-f66e-49ae-aa24-5fbfe3bfbd43.jpg" width="600" height="600" align="center"/> | <img src="https://user-images.githubusercontent.com/97990136/160720898-3932e85f-f02a-4411-842b-fe42b9a3149e.jpg" width="600" height="600" align="center"/> |
+
+<p>Confusion Matrix</p>
+<img src="https://user-images.githubusercontent.com/97990136/160722340-e4589a69-8462-4867-b0c9-949fa38e75b6.jpg" width="600" height="400" align="center"/>
+
