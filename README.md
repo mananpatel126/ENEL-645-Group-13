@@ -21,3 +21,5 @@ Group members:
     - **[ResNet_Model](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/ResNet_Model)**
     - **[VGG_Model](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/VGG16_Model)**
     - **[Prediction](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/Prediction)**
+    - **[Report](https://github.com/mananpatel126/ENEL-645-Group-13/files/8379000/ENEL645_Final_Project_Template.pdf)**
+
