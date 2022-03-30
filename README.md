@@ -16,7 +16,8 @@ Group members:
 
 ## Projects
 - **Final Project**: [Hand Gesture Recognition using Transfer Learning](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project)
-    - **Data Collection**: [Softmax, one-hot-encoding, loss functions](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/Data%20Collection) 
-    - **MobileNet_Model**: [Fully Connected Neural Networks - revisited](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/MobileNet_Model)
-    - **ResNet_Model**: [Fully Connected Neural Networks - revisited](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/ResNet_Model)
-    - **VGG_Model**: [Fully Connected Neural Networks - revisited](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/VGG16_Model)
+    - **[Data Collection](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/Data%20Collection)** 
+    - **[MobileNet_Model](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/MobileNet_Model)**
+    - **[ResNet_Model](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/ResNet_Model)**
+    - **[VGG_Model](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/VGG16_Model)**
+    - **[Prediction](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/Prediction)**
