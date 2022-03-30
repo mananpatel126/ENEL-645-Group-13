@@ -16,3 +16,5 @@ Group members:
 
 ## Projects
 - **Final Project**: [Hand Gesture Recognition using Transfer Learning](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project)
+    - **Data Collection**: [Softmax, one-hot-encoding, loss functions](JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb) 
+	  - **MobileNet Model**: [Fully Connected Neural Networks - revisited](JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
