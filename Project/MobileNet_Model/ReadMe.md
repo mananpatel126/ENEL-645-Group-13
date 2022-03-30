@@ -14,16 +14,15 @@ Contents of this folder
     <th>Fine Tuned Model</th>
   </tr>
   <tr>
-    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160721915-cdfde3d4-f66e-49ae-aa24-5fbfe3bfbd43.jpg" width="600" height="600" align="center"/></td>
-    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160720898-3932e85f-f02a-4411-842b-fe42b9a3149e.jpg" width="600" height="600" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160727981-20e0393c-f835-4409-a49e-ab751e8f58e2.jpg" width="600" height="600" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160727935-10af40de-b267-440f-8857-4293bd797cf0.jpg" width="600" height="600" align="center"/></td
   </tr>
   <tr>
     <th colspan="2" style="background-color:#FFFFFF">Confusion Matrix</th>
    
   </tr>
   <tr>
-    <th colspan="2" style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160722340-e4589a69-8462-4867-b0c9-949fa38e75b6.jpg" width="600" height="400" align="center"/></th>
+    <th colspan="2" style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160727856-1aead61d-7a6d-45ed-8f1b-060df1027a84.jpg" width="600" height="400" align="center"/></th>
    
   </tr>
 </table>
-
