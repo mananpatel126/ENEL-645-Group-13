@@ -1,6 +1,5 @@
-<h2>ResNet50 Model</h2>
+<h2>VGG16 Model</h2>
 <p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
-
 
 <table>
   <tr>
@@ -8,15 +7,15 @@
     <th>Fine Tuned Model</th>
   </tr>
   <tr>
-    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160721915-cdfde3d4-f66e-49ae-aa24-5fbfe3bfbd43.jpg" width="600" height="600" align="center"/></td>
-    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160720898-3932e85f-f02a-4411-842b-fe42b9a3149e.jpg" width="600" height="600" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160727363-198191f2-76de-43b9-980e-db78142887fe.jpg" width="600" height="600" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160727402-a26823b0-c5fc-4e7a-9248-54347ab1005f.jpg" width="600" height="600" align="center"/></td>
   </tr>
   <tr>
     <th colspan="2" style="background-color:#FFFFFF">Confusion Matrix</th>
    
   </tr>
   <tr>
-    <th colspan="2" style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160722340-e4589a69-8462-4867-b0c9-949fa38e75b6.jpg" width="600" height="400" align="center"/></th>
+    <th colspan="2" style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/160727312-d7a72ba3-b589-4b9f-93a7-55b5eed32dca.jpg" width="600" height="400" align="center"/></th>
    
   </tr>
 </table>
