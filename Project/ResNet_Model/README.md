@@ -18,10 +18,11 @@
 
 <table>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <td><img src="https://user-images.githubusercontent.com/97990136/160721915-cdfde3d4-f66e-49ae-aa24-5fbfe3bfbd43.jpg" width="600" height="600" align="center"/></td>
+    <td><img src="https://user-images.githubusercontent.com/97990136/160720898-3932e85f-f02a-4411-842b-fe42b9a3149e.jpg" width="600" height="600" align="center"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://user-images.githubusercontent.com/97990136/160721915-cdfde3d4-f66e-49ae-aa24-5fbfe3bfbd43.jpg" width="600" height="600" align="center"/></td>
+    <th colspan="2" style="background-color:#000000"><img src="https://user-images.githubusercontent.com/97990136/160722340-e4589a69-8462-4867-b0c9-949fa38e75b6.jpg" width="600" height="400" align="center"/></th>
+   
   </tr>
 </table>
