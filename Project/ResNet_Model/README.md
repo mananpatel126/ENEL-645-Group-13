@@ -16,3 +16,12 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://user-images.githubusercontent.com/97990136/160721915-cdfde3d4-f66e-49ae-aa24-5fbfe3bfbd43.jpg" width="600" height="600" align="center"/></td>
+  </tr>
+</table>
