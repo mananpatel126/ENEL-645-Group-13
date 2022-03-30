@@ -1,3 +1,8 @@
+Contents of this folder 
+- python code for transfer learning using ResNet50,
+- initially trained model
+- fine tuned model 
+
 <h2>ResNet50 Model</h2>
 <p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
 
