@@ -1,8 +1,6 @@
 *Data collection is saved using OpenCV.*
 
-<h2>MobileNet Model</h2>
-<p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
-
+<h2>Data Collection</h2>
 
 <table>
   <tr>
