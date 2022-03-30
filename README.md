@@ -3,12 +3,12 @@
 Group members:
 | Sr. No.| Name            | UCID    | 
 |--------|-----------------|---------|
-| 1.     | Manan Patel     | 30126849|
-| 2.     | Vishal Patel    | 30126128|
+| 1.     | Dishank Bhavsar | 30136156|
+| 2.     | Jay Patel       | 30110511|
 | 3.     | Karnav Joshi    | 30126641|
-| 4.     | Dishank Bhavsar | 30136156|
+| 4.     | Manan Patel     | 30126849|
 | 5.     | Romil Patel     | 30129768|
-| 6.     | Jay Patel       | 30110511|
+| 6.     | Vishal Patel    | 30126128|
 
 ## Assignments
 - **Assignment 01**: [Assignment#1_Python/NumPy Programming](Assignment/Assignment_1/Assignment_1.ipynb)
