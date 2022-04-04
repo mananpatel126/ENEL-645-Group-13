@@ -5,7 +5,7 @@ Contents of this folder
 
 <h2>ResNet50 Model</h2>
 
-<p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
+<p>Model Summary</p>
 
 
 <table>
@@ -14,10 +14,11 @@ Contents of this folder
     <th>Fine Tuned Model</th>
   </tr>
   <tr>
-    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161609129-3562a963-f9f5-4838-951c-bb6e8aa6735f.jpg" width="600" height="300" align="center"/></td>
-    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161609127-aafe6934-e8ee-4893-8941-d3d4eacc85d0.jpg" width="600" height="300" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161611505-5a383232-781a-4fcf-bfc3-be0a3ef1cc40.jpg" width="600" height="300" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161611508-ed9fedf6-f920-4f2f-bd0f-393e1cd5435e.jpg" width="600" height="300" align="center"/></td>
   </tr>
 <table>
+
 
 <p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
 
