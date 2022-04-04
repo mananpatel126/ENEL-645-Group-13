@@ -6,8 +6,7 @@ Contents of this folder
 
 <h2>MobileNet Model</h2>
 
-<p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
-
+<p>Mobile Summary</p>
 
 <table>
   <tr>
