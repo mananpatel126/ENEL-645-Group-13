@@ -1,6 +1,3 @@
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=97990136)
-
-
 # ENEL_645-Group13
 
 Group members:
