@@ -14,8 +14,8 @@ Contents of this folder
     <th>Fine Tuned Model</th>
   </tr>
   <tr>
-    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161609129-3562a963-f9f5-4838-951c-bb6e8aa6735f.jpg" width="600" height="600" align="center"/></td>
-    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161609127-aafe6934-e8ee-4893-8941-d3d4eacc85d0.jpg" width="600" height="600" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161609129-3562a963-f9f5-4838-951c-bb6e8aa6735f.jpg" width="600" height="400" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161609127-aafe6934-e8ee-4893-8941-d3d4eacc85d0.jpg" width="600" height="400" align="center"/></td>
   </tr>
 <table>
 
