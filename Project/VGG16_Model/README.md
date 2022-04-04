@@ -1,4 +1,19 @@
 <h2>VGG16 Model</h2>
+
+<p>Model Summary</p>
+
+
+<table>
+  <tr>
+    <th>Initial Trained Model</th>
+    <th>Fine Tuned Model</th>
+  </tr>
+  <tr>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161611859-2c805eef-d9c8-475f-bfbb-5f433860b346.jpg" width="600" height="300" align="center"/></td>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161611864-608da6fd-a6a0-43c1-ac9d-f292f54b9e99.jpg" width="600" height="300" align="center"/></td>
+  </tr>
+<table>
+
 <p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
 
 <table>
