@@ -5,6 +5,22 @@ Contents of this folder
 
 
 <h2>MobileNet Model</h2>
+
+<p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
+
+
+<table>
+  <tr>
+    <th>Initial Trained Model</th>
+    <th>Fine Tuned Model</th>
+  </tr>
+  <tr>
+    <td style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/161609652-26ccdd7e-f0a1-47d8-84b5-2d2a7ad7b3f3.jpg" width="600" height="300" align="center"/></td>
+    <td style="https://user-images.githubusercontent.com/97990136/161609650-d4e01d40-375c-46b0-88af-730e96f3610c.jpg" width="600" height="300" align="center"/></td>
+  </tr>
+<table>
+
+  
 <p>Plots of Loss Vs Epochs and Accuracy Vs Epochs</p>
 
 
