@@ -1,4 +1,4 @@
-*Data collection is saved using OpenCV.*
+Data collection is saved using OpenCV.
 
 <h2>Data Collection</h2>
 
