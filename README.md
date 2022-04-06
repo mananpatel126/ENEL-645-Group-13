@@ -23,5 +23,6 @@ Group members:
         - **[VGG_Model](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/VGG16_Model)**
     - **[Prediction](https://github.com/mananpatel126/ENEL-645-Group-13/tree/main/Project/Prediction)**
     - **[Report](https://github.com/mananpatel126/ENEL-645-Group-13/blob/main/Project/Group_13_ENEL_645_Project_Report.pdf)**
+    - **[Presentation](https://github.com/mananpatel126/ENEL-645-Group-13/blob/main/Project/Group_13_ENEL_645_Final_Project_Presentation.pptx)**
     - **[Consensus](https://github.com/mananpatel126/ENEL-645-Group-13/blob/main/Project/Group_13_ENEL_645_Final_Project_consensus.pdf)**
    
