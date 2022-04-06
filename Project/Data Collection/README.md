@@ -1,4 +1,4 @@
-Data collection is collected using OpenCV.
+Dataset is collected using OpenCV.
 
 <h2>Object Detection</h2>
 
