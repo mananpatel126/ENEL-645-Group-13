@@ -1,5 +1,19 @@
 Data collection is collected using OpenCV.
 
+<h2>Object Detection</h2>
+
+
+<table>
+  <tr>
+    <th colspan="2" style="background-color:#FFFFFF">Object Detection</th>
+  </tr>
+  <tr>
+    <th colspan="2" style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/162030617-fe1cb8a4-8ad7-4b20-8a5d-7775bc31db11.gif" width="600" height="400" align="center"/></th>
+   
+  </tr>
+</table>
+
+
 <h2>Data Collection</h2>
 
 <table>
