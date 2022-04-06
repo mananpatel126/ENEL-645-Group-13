@@ -8,7 +8,7 @@ Data collection is collected using OpenCV.
     <th colspan="2" style="background-color:#FFFFFF">Object Detection</th>
   </tr>
   <tr>
-    <th colspan="2" style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/162030617-fe1cb8a4-8ad7-4b20-8a5d-7775bc31db11.gif" width="800" height="400" align="center"/></th>
+    <th colspan="2" style="background-color:#FFFFFF"><img src="https://user-images.githubusercontent.com/97990136/162030617-fe1cb8a4-8ad7-4b20-8a5d-7775bc31db11.gif" width="1000" height="450" align="center"/></th>
    
   </tr>
 </table>
